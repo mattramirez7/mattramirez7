@@ -1,6 +1,6 @@
 <h1 align="center">  Hi there, I'm Matt Ramirez 👨‍💻<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-<h3 align="center">  Tech Enthusiast | UW Informatics | Full-Stack Dev | IOS Mobile </h3> <br>
+<h3 align="center">  Tech Enthusiast | UW Informatics | Aspiring Full-Stack Dev </h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
