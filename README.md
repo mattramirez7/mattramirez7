@@ -9,7 +9,7 @@ Hello Github users, I am currently a senior studying informatics with a minor in
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Profile Stats
-[![Matt Ramirez's github stats](https://github-readme-stats.vercel.app/api?username=mattramirez7&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false) <br/>
+![Matt Ramirez's github stats](https://github-readme-stats.vercel.app/api?username=mattramirez7&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattramirez7&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
