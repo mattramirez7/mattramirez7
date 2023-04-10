@@ -3,9 +3,18 @@
 <h3 align="center">  Tech Enthusiast | UW Informatics | Aspiring Full-Stack Dev </h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 About
+### 🤔💭 About me
 
-Hello Github users, I am currently a senior studying informatics with a minor in data science at the University of Washington. I have a passion for software development and am currently working on projects in both web and iOS mobile development which are linked in my profile above. I am actively seeking roles in software engineering and am excited to put my skills and expertise to use in contributing to the evergrowing tech industry.
+#### Hello Github users! 
+
+I am currently a senior majoring in informatics with a focus in software development and minor in data science at the University of Washington - Seattle Campus ℹ️🏫 <br>
+
+I have a passion for software development and am currently working on projects in both eCommerce web and iOS mobile development 🖥️📱 
+
+I am actively seeking roles in software engineering. I am both excited and eager to put my skills and expertise to use!👨🏻‍💻
+
+<p align="center">
+  <i>Open to hearing about opportunities! (Contact Information below)</i>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Profile Stats
