@@ -7,11 +7,11 @@
 
 #### Hello Github users! 
 
-I am currently a senior majoring in informatics with a focus in software development and minor in data science at the University of Washington - Seattle Campus ℹ️🏫 <br>
+Currently a senior majoring in informatics with a focus in software development and minor in data science at the University of Washington iSchoolℹ️🏫 <br>
 
-I have a passion for software development and am currently working on projects in both eCommerce web and iOS mobile development 🖥️📱 
+Passion for software development and currently working on projects in both web eCommerce and iOS mobile application development 🖥️📱 
 
-I am actively seeking roles in software engineering. I am both excited and eager to put my skills and expertise to use!👨🏻‍💻
+Actively seeking entry-level roles in software engineering. I am both excited and eager to put my skills and expertise to use!👨🏻‍💻
 
 <p align="center">
   <i>Open to hearing about opportunities! (Contact Information below)</i>
