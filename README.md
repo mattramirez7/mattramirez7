@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 
-Hello Github users, I am currently a senior studying informatics with a minor in data science at the University of Washington. I have a passion for software development and am currently working on projects in both web and IOS mobile development which are linked in my profile above. I am actively seeking roles in software engineering and am excited to put my skills and expertise to use in contributing to the evergrowing tech industry.
+Hello Github users, I am currently a senior studying informatics with a minor in data science at the University of Washington. I have a passion for software development and am currently working on projects in both web and iOS mobile development which are linked in my profile above. I am actively seeking roles in software engineering and am excited to put my skills and expertise to use in contributing to the evergrowing tech industry.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📊 Profile Stats
