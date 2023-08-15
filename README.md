@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔💭 About me
 
-#### Hello Github users! 
+#### Hello ! 
 
 Currently a senior majoring in informatics with a focus in software development and minor in data science at the University of Washington iSchoolℹ️🏫 <br>
 
