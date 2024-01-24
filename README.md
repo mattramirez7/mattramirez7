@@ -1,17 +1,15 @@
 <h1 align="center">  Hi there, I'm Matt Ramirez 👨‍💻<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-<h3 align="center">  Tech Enthusiast | UW Informatics | Aspiring Full-Stack Dev </h3> <br>
+<h3 align="center">  Tech Enthusiast | UW Informatics | iOS Dev </h3> <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔💭 About me
 
 #### Hello ! 
 
-Currently a senior majoring in informatics with a focus in software development and minor in data science at the University of Washington iSchoolℹ️🏫 <br>
+Currently an Associate iOS Developer at Lululemon <br>
 
-Passion for software development and currently working on projects in both web eCommerce and iOS mobile application development 🖥️📱 
-
-Actively seeking entry-level roles in software engineering. I am both excited and eager to put my skills and expertise to use!👨🏻‍💻
+Passion for software development and currently working on projects in both eCommerce and iOS mobile application development 🖥️📱 
 
 <p align="center">
   <i>Open to hearing about opportunities! (Contact Information below)</i>
