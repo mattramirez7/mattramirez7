@@ -1,4 +1,4 @@
-<h1 align="center">  Hi there, I'm Matt Ramirez 👨‍💻<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center">  Matt Ramirez 👨‍💻<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
 <h3 align="center">  Tech Enthusiast | UW Informatics | iOS Dev </h3> <br>
 
