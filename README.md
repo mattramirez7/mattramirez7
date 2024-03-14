@@ -1,4 +1,4 @@
-<h1 align="center">  Matt Ramirez 👨‍💻<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center">  Matt Ramirez 👨🏻‍💻<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
 <h3 align="center">  Tech Enthusiast | University of Washington Informatics | iOS Dev </h3> <br>
 
@@ -10,6 +10,7 @@
 Current Associate Software Engineer II @ lululemon helping improve guest shopping experience on their top-rated mobile iOS application <br>
 
 Continuously learning and looking for new opportunities in software. Currently learning SwiftUI. 🖥️📱 
+
 
 <p align="center">
   <i>Open to hearing about opportunities! (Contact Information below)</i>
